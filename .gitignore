@@ -1,0 +1,13 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor / IDE
+.vs/
+.vscode/
+*.swp
+*~
+
+# PowerShell
+*.ps1xml
