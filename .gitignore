@@ -11,3 +11,7 @@ $RECYCLE.BIN/
 
 # PowerShell
 *.ps1xml
+
+# Solo local / no publicar en GitHub
+CLAUDE.md
+instala.ps1
